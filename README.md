@@ -18,7 +18,7 @@ Our project structure is as follows:
 ```
 
 # Data Processing
-Download the `trainset.csv`, `track1_testset.csv`, `track2_testset.csv` into `dataset` and then
+Download the `trainset.csv`, `track1_testset.csv`, `track2_testset.csv` and `item_info.csv` into `dataset` and then
 run the following shell to process the data to obtain the pickle data.
 ```python
 sh process.sh
